@@ -1,0 +1,72 @@
+body {
+    direction: rtl;
+
+}
+
+#container {
+    width: 900px;
+    margin: 0 auto;
+    border-color: antiquewhite;
+    background-attachment: fixed;
+    background-image: url('../images/love.jpg'); width:1200px; height: 2000px;
+}
+.roma {
+    color: red;
+    font-size: 30px;
+    font-family:Tahoma;
+    text-align:center;
+    
+}
+
+.ROMA {
+    font-family: David;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.ROM {
+    font-family: David;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.ro {
+    font-family: David;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.tal {
+    font-family: David;
+    font-size: 20px;
+    color: antiquewhite;
+}
+
+.link {
+    font-family: David;
+    font-size: 14px;
+    color: antiquewhite;
+}
+
+.linkk {
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+
+.linkkk {
+    font-family: Arial;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+
+.three {
+    font-family: Arial;
+    font-size: 35px;
+    color: peachpuff;
+    font-weight: bold;
+}
+
+    
